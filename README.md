@@ -243,3 +243,10 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 ![debugging](./images/Debugging.jpg)
 
 ***
+
+#### Question: Why are computer are like women ?
+
+
+No one but the Creator understands their internal logic.
+
+
